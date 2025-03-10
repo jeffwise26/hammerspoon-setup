@@ -8,3 +8,4 @@ accross all applications
 3. copy/paste the contents of init.lua from this repo
 4. Click 'reload config'
 5. enable accessibility for hammerspoon in mac settings
+  * System Settings -> Privacy & Security -> Accessibility -> Hammerspoon
